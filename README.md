@@ -4,6 +4,10 @@ This repository contains the Examples, Exercises, and Solutions for Section 3
 of C Programming for Beginners: Master the C Language by Jason Fedin, which
 covers compiling, linking, building, and executing files. 
 
+See the following link for this course: 
+
+https://www.udemy.com/course/c-programming-for-beginners/
+
 In this repository, I incorporate Code::Blocks and Visual Studio Code Integrated
 Development Environments (IDEs) and the Vim text editor along with Git and GitHub
 into my workflow. I also used the Fedora 37 system in a VirtualBox environment

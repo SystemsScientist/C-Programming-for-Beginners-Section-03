@@ -6,7 +6,7 @@ covers compiling, linking, building, and executing files.
 
 See the following link for this course: 
 
-https://www.udemy.com/course/c-programming-for-beginners/
+<a href="https://www.udemy.com/course/c-programming-for-beginners/" target="_blank" title="C Programming">C Programming for Beginners </a>
 
 In this repository, I incorporate Code::Blocks and Visual Studio Code Integrated
 Development Environments (IDEs) and the Vim text editor along with Git and GitHub

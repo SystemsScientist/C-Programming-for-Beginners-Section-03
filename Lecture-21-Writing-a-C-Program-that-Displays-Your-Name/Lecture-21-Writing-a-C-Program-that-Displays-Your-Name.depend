@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1673785515 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-03-Starting-to-Write-Code/Lecture-21-Writing-a-C-Program-that-Displays-Your-Name/main.c
+	<stdio.h>
+

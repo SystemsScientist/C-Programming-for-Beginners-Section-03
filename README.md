@@ -6,7 +6,7 @@ covers compiling, linking, building, and executing files.
 
 See the following link for this course: <a href="https://www.udemy.com/course/c-programming-for-beginners-/" target="_blank" title="C Programming">C Programming for Beginners </a>
 
-In this repository, I incorporate Code::Blocks and Visual Studio Code Integrated
+In this repository, I incorporated Code::Blocks and Visual Studio Code Integrated
 Development Environments (IDEs) and the Vim text editor along with Git and GitHub
 into my workflow. I also used the Fedora 37 system in a VirtualBox environment
 to create, use, and manage directories and files as I worked through the section.
